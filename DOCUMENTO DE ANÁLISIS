@@ -1,0 +1,58 @@
+DOCUMENTO DE ANÁLISIS
+
+Software para el control del Sistema de Gestión en Seguridad y Salud en el Trabajo Securitysoft
+
+RESUMEN
+
+
+El Software para el control del Sistema de Gestión de Seguridad y Salud en el Trabajo, se crea por una necesidad que nace bajo la normatividad colombiana que surge con la Ley 1562 y la Ley 1443 las cuales fijan los parámetros de obligatorio cumplimiento para todas las empresas y trabajadores tanto dependientes como independientes en todo el territorio nacional para el manejo de la seguridad y salud en el trabajo antes llamado Salud Ocupacional.
+
+
+INTRODUCCION
+
+
+El Software para el control del Sistema de Gestión de Seguridad y Salud en el Trabajo se basa inicialmente en la necesidad de los empleadores para controlar el Sistema de Gestión requerido por la ley, llevando un control de requerimientos y un control porcentual sobre el cumplimiento, así como las multas en las que puede incurrir.
+
+
+PROPOSITO GENERAL DEL SISTEMA
+
+
+Este software tiene como propósito Administrar el cumplimiento del Sistema de Gestión y generar acciones correctivas para dicho sistema así como informar las multas en las cuales se está incurriendo de acuerdo con la normatividad.
+
+
+ALCANCE DEL SISTEMA
+
+
+El Software para el control del Sistema de Gestión de Seguridad y Salud en el Trabajo da al cliente un módulo local el cual le va a servir de herramienta interactiva para el diagnóstico de la empresa con miras al cumplimiento del Sistema de Gestión en Seguridad y Salud en el Trabajo estipulado en las Leyes 1562 y 1443 que regulan la materia. 
+
+SOFTWARE PARA EL CONTROL DEL SISTEMA DE GESTIÓN EN SEGURIDAD Y SALUD EN EL TRABAJO SECURITYSOFT.
+
+
+
+ACTORES
+
+	GERENCIA: Comprende junta de socios y gerencia.
+
+	AREA DE TALENTO HUMANO: Comprende las áreas de Nómina, Bienestar Social y Salud Ocupacional. 
+
+	ÁREA FINANCIERA: Comprende el área de tesorería. 
+	ADMINISTRADOR MANAGER: Gerente de la Empresa.
+	ADMINISTRADOR BASE: Delegado del COPASST o Vigía de la Salud. 
+
+
+►Siglas o Abreviaturas a tener en cuenta
+
+	COPASST: Comité Paritario de Seguridad y Salud en el Trabajo.
+
+	SGSST: Sistema de Gestión en Seguridad y Salud en el Trabajo.
+
+
+
+REQUERIMIENTOS FUNCIONALES DE SOFTWARE
+
+
+
+ACTORES: GERENTE – ADMINISTRADOR MANAGER
+
+1.	El Software debe permitir al Administrador Manager mediante un ingreso previo de parámetros definidos en la Ley 1443 evaluar el porcentaje de cumplimiento del Sistema de Gestión para la Seguridad y Salud en el Trabajo. 
+ 
